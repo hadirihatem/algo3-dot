@@ -1,3 +1,4 @@
+//func
 FUNCTION dot_product(v1, v2 : ARRAY_OF FLOAT[2]) : FLOAT ;
 VAR
     PS: FLOAT := 0;
